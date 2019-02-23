@@ -1,2 +1,3 @@
 hallo sda
 kolejna zmiana pliku trzecia
+czwarta zmiana nowa funkcjonalnosc
